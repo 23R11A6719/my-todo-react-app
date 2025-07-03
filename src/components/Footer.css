@@ -1,0 +1,11 @@
+.footer {
+  background-color: #fceae8; /* Soft pink background */
+  padding: 1rem 2rem;
+  text-align: center;
+  color: #5b4b49; /* Warm brownish text */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+  border-top: 3px solid #ffc3a0; /* Light coral top border */
+  box-shadow: 0 -2px 6px rgba(255, 195, 160, 0.4); /* Soft coral shadow */
+}
